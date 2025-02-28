@@ -90,16 +90,17 @@ Disadvantages:
 3.Requires Discipline: Team members need to be highly disciplined and collaborative.
 
 4.Documentation: Less emphasis on documentation can lead to gaps in records.
-
 Comparison
-| Aspect	            |Waterfall	            |Agile                       |
---------------------------------------------------------------------------
-| Approach	        |Linear and Sequential  |	Iterative and Incremental|
-| Flexibility        |	Low	                |High                        |
-| Customer Feedback  |	Limited to End Phase|	Continuous Throughout    |
-| Documentation      |	Extensive           |	Minimal                  |
-| Testing	        |At the End	            |Throughout the Project      |
-| Change Management  |	Difficult           |	Easy                     |
+
+| Aspect             | Waterfall               | Agile                      |
+|--------------------|-------------------------|----------------------------|
+| Approach           | Linear and Sequential   | Iterative and Incremental  |
+| Flexibility        | Low                     | High                       |
+| Customer Feedback  | Limited to End Phase    | Continuous Throughout      |
+| Documentation      | Extensive               | Minimal                    |
+| Testing            | At the End              | Throughout the Project     |
+| Change Management  | Difficult               | Easy                       |
+
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ### When Agile is More Beneficial:
